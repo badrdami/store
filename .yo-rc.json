@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "store",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "MjQ0N2E2ZjQ1MTZhMWMyNTM5OTFmOTI3NjgxN2E2MDhkYjBjOWExZWEzNzg0MGU5Y2Y0OWI4NTQ4ZmRkNzJjNjk3YmQ5YzY2MDliMjVmM2Y3NmQxOGNjMDlkZDg4OTE3ZWI0ZTM5MTU5Nzg3NzAwNTMzNzBlZDlmMTVlNWYzODQ="
+  },
+  "git-provider": "GitHub",
+  "git-company": "badrdami",
+  "repository-name": "store"
+}
